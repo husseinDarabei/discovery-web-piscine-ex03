@@ -1,0 +1,13 @@
+Git Workflow
+
+1. Edit:
+   Edited README.md and added the project documentation.
+
+2. Add:
+   git add README.md
+
+3. Commit:
+   git commit -m "Add project documentation"
+
+4. Push:
+   git push -u origin main
